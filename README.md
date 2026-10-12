@@ -14,8 +14,7 @@
   <br/><br/>
 
   <!-- Reliable Visitor Counter (Bypasses Adblockers) -->
-  <img src="https://api.visitorbadge.io/api/visitors?page_id=KaruriCreations&label=VIEWS&labelColor=23272d&countColor=8A2BE2&style=for-the-badge" alt="Views" />
-  <img src="https://img.shields.io/github/followers/KaruriCreations?label=Followers&style=for-the-badge&color=0077B5" alt="Followers" />
+<img src="https://hits.sh/github.com/KaruriCreations.svg?style=for-the-badge&label=VIEWS&color=8a2be2" alt="Views" />
 
 </div>
 
