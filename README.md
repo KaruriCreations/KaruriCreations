@@ -15,6 +15,7 @@
 
   <!-- Reliable Visitor Counter (Bypasses Adblockers) -->
 <img src="https://hits.sh/github.com/KaruriCreations.svg?style=for-the-badge&label=VIEWS&color=8a2be2" alt="Views" />
+<img src="https://img.shields.io/github/followers/KaruriCreations?label=Followers&style=for-the-badge&color=0077B5" alt="Followers" />
 
 </div>
 
